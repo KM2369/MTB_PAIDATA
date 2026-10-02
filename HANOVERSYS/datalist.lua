@@ -1,4 +1,5 @@
 --[ MTB HANOVER DISPLAY DATA]
+local script =
 
 function show(front,sideL,side)
 	script.Parent.Front.L.Route.Image = front

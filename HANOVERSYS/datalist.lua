@@ -1,5 +1,4 @@
 --[ MTB HANOVER DISPLAY DATA]
-local script =
 
 function show(front,sideL,side)
 	script.Parent.Front.L.Route.Image = front
@@ -38,10 +37,7 @@ while wait() do
 		show("https://assetgame.roblox.com/asset/?id=14657684527&assetName=FS","https://assetgame.roblox.com/asset/?id=14683246007&assetName=FS %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "T" then
-		show("https://assetgame.roblox.com/asset/?id=14657680342&assetName=T","https://assetgame.roblox.com/asset/?id=14683414085&assetName=T -     ","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
-		wait(4)
-		show("rbxassetid://77321187579977","rbxassetid://140088569384773","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
-		wait(4)
+		show("rbxassetid://77321187579977","rbxassetid://140088569384773","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "TEST" then
 		show("https://assetgame.roblox.com/asset/?id=14657679716&assetName=TEST","https://assetgame.roblox.com/asset/?id=14683242280&assetName=TEST %281%29","https://assetgame.roblox.com/asset/?id=14657903893&assetName=BROKEN_TEST")
@@ -1172,9 +1168,7 @@ while wait() do
 		
 
 	else show("https://assetgame.roblox.com/asset/?id=14657683475&assetName=MTB","https://assetgame.roblox.com/asset/?id=14683245338&assetName=MTB %282%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
-		wait(4)
-		show("rbxassetid://121487711235380","rbxassetid://101070132044128","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
-		wait(4)
+
 		--script.Parent.Back.R.Num.Text = script.Parent.Model.Rt.R.Num.Text
 		--script.Parent.Front.R.Num.Text = script.Parent.Model.Rt.R.Num.Text
 		--script.Parent.Rear.R.Num.Text = script.Parent.Model.Rt.R.Num.Text

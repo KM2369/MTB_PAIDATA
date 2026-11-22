@@ -22,6 +22,12 @@ while wait() do
 	
 	if script.Parent.Model.Rt.R.Num.Text == "MTB" then
 		show("rbxassetid://89479472464908")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "V" then
+		show("rbxassetid://112859637223350")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "XX" then
+		show("rbxassetid://88076826135483")
 		
 		-- non route
 		
@@ -29,7 +35,7 @@ while wait() do
 		show("rbxassetid://120814141877178")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "0" then
-		show("")
+		show("rbxassetid://138094216616813")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "TB" then
 		show("rbxassetid://97599096812375")
@@ -908,7 +914,23 @@ while wait() do
 	elseif script.Parent.Model.Rt.R.Num.Text == "N98Z" then
 		show("rbxassetid://103502168661736")
 
+	elseif script.Parent.Model.Rt.R.Num.Text == "P1Y" then
+		show("rbxassetid://107594448307331")
+		
+	elseif script.Parent.Model.Rt.R.Num.Text == "P1Z" then
+		show("rbxassetid://118596381180985")
 
+	elseif script.Parent.Model.Rt.R.Num.Text == "P2Y" then
+		show("rbxassetid://73627040217622")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "P2Z" then
+		show("rbxassetid://113481493448200")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "P2AY" then
+		show("rbxassetid://94058236515997")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "P2AZ" then
+		show("rbxassetid://76140181314845")
 		
 	else show("")
 		script.Parent.Front.R.Num.Text = script.Parent.Model.Rt.R.Num.Text

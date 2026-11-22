@@ -131,10 +131,10 @@ while wait() do
 	elseif script.Parent.Model.Rt.R.Num.Text == "49Z" then
 		show("rbxassetid://70830075142130")
 		
-	elseif script.Parent.Model.Rt.R.Num.Text == "49AY" or '49AZ' then
+	elseif script.Parent.Model.Rt.R.Num.Text == '49AZ' then
 		show("rbxassetid://104656712695798")
 
-	elseif script.Parent.Model.Rt.R.Num.Text == '49SY' or '49SZ' then
+	elseif script.Parent.Model.Rt.R.Num.Text == '49SZ' then
 		show("rbxassetid://91542145223133")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "52XY" then
@@ -203,7 +203,7 @@ while wait() do
 	elseif script.Parent.Model.Rt.R.Num.Text == "71AZ" then
 		show("rbxassetid://129876166989410")
 
-	elseif script.Parent.Model.Rt.R.Num.Text == "71BY" or '71BZ' then
+	elseif script.Parent.Model.Rt.R.Num.Text == "71BY" then
 		show("rbxassetid://94580973542044")
 		
 	elseif script.Parent.Model.Rt.R.Num.Text == "71CY" then
@@ -260,10 +260,10 @@ while wait() do
 	elseif script.Parent.Model.Rt.R.Num.Text == "73BZ" then
 		show("rbxassetid://135505732234786")
 		
-	elseif script.Parent.Model.Rt.R.Num.Text == "73DY" or '73DZ'then
+	elseif script.Parent.Model.Rt.R.Num.Text == "73DY" then
 		show("rbxassetid://114762239487832")
 
-	elseif script.Parent.Model.Rt.R.Num.Text == "73EY" or '73EZ' then
+	elseif script.Parent.Model.Rt.R.Num.Text == "73EY"  then
 		show("rbxassetid://72082809544210")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "73Y" then
@@ -380,7 +380,7 @@ while wait() do
 	elseif script.Parent.Model.Rt.R.Num.Text == "81Z" then
 		show("rbxassetid://106292033438048")
 
-	elseif script.Parent.Model.Rt.R.Num.Text == "82Y" or '82Z' then
+	elseif script.Parent.Model.Rt.R.Num.Text == "82Y"  then
 		show("rbxassetid://80475017224654")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "83PY" then
@@ -548,7 +548,7 @@ while wait() do
 	elseif script.Parent.Model.Rt.R.Num.Text == "96EZ" then
 		show("rbxassetid://72724891817137")
 		
-	elseif script.Parent.Model.Rt.R.Num.Text == "96PZ" or '96PY' then
+	elseif script.Parent.Model.Rt.R.Num.Text == "96PZ"then
 		show("rbxassetid://110807740543737")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "96XY" then
